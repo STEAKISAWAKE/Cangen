@@ -4,6 +4,6 @@
 class CRenderer
 {
 public:
-	GLFWwindow* window;
+
 };
 

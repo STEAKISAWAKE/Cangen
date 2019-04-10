@@ -30,6 +30,9 @@
     <ClCompile Include="ECS.cpp">
       <Filter>Source Files\ECS</Filter>
     </ClCompile>
+    <ClCompile Include="CUtilities.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CApplication.h">
@@ -40,6 +43,9 @@
     </ClInclude>
     <ClInclude Include="ECS.h">
       <Filter>Source Files\ECS</Filter>
+    </ClInclude>
+    <ClInclude Include="CUtilities.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
